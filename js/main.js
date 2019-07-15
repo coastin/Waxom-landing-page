@@ -46,7 +46,7 @@ $(document).mouseup(function(e) {
 
 
 // Calculation statistics
-var time = 2; cc = 1;
+var time = 1; cc = 1;
 $(window).scroll(function(){
 	$('#counter').each(function(){
 		var cPos = $(this).offset().top,
